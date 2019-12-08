@@ -26,7 +26,7 @@ titles:
 key: page-about
 ---
 
-내가 가진 지식을 모두 공유 하기 위한 장소
+지식 공유 장소
 
 <!--
 ![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
