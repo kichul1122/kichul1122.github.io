@@ -36,5 +36,4 @@ tags: test
 ## Skin: Orange
 
 ![orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg)
-
-Why 한글 안되는거지...
+한글이 깨진다...
