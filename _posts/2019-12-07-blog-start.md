@@ -24,4 +24,10 @@ Console.WriteLine("Fenced code blocks ftw!");
 
 ```cs
 Console.WriteLine("Fenced code blocks ftw!");
+
+for (int i = 0 ; i < 10; i++)
+{
+    // Code to execute.
+}
+
 ```
