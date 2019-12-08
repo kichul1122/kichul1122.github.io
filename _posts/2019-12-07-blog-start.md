@@ -17,3 +17,11 @@ for (int i = 0 ; i < 10; i++)
     // Code to execute.
 }
 ```
+
+<pre><code class='language-cs'>
+Console.WriteLine("Fenced code blocks ftw!");
+</code></pre>
+
+```cs
+Console.WriteLine("Fenced code blocks ftw!");
+```
