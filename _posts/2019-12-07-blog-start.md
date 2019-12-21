@@ -1,6 +1,6 @@
 ---
-title: 블로그 시작
-tags: test
+title: MarkDown
+tags: MarkDown
 ---
 
 # 블로그 시작
