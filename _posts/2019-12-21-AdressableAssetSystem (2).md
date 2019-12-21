@@ -1,6 +1,6 @@
 ---
 title: Addressable Asset System
-tags: Addressable Asset System
+tags: AddressableAssetSystem
 ---
 
 # Addressable Asset System
