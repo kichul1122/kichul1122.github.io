@@ -3,58 +3,11 @@ title: 블로그 시작
 tags: test
 ---
 
-# 블로그 시작
-블로그를 시작 합니다.
+# Addressable Asset System
+#### 구현 예정 목록
+- 게임 로그인 전에 받아야할 에셋들 로드(일반 적인 게임의 시작전 데이터 로드)
+- 필요한 컨텐츠 시작 전 해당 컨텐츠 다운로드 하기(필요한 언어, 음악파일, 기타등등 컨텐츠 용 데이터)
+- 저용량/고용량 리소스별 다운로드
+- 리소스 관리방식(생성과 파괴)
 
-
-```javascript
-(() => console.log('Hello, World!'))();
-```
-
-```csharp
-for (int i = 0 ; i < 10; i++)
-{
-    // Code to execute.
-}
-
-Console.WriteLine("Fenced code blocks ftw!");
-
-for (int i = 0 ; i < 10; i++)
-{
-    // Code to execute.
-}
-
-```
-
-
-https://kichul1122.github.io/
-
-
-![File](file.png)
-
-
-```csharp
-public class Apple
-{
-    public Attack()
-    {
-    
-    }
-}
-```
-...
-
-
-**안되넹...**
-
-*ㅁㄴㅇㄹ*
-
-`오.. 이게 대박이네`
-
-[# 블로그 시작2](http://example.com)
-
-
- - ㄴ아아아아
- - 아아아아아아ㅏㅇ
-
----
+##### 1.게임 로그인 전에 받아야할 에셋들 로드(일반 적인 게임의 시작전 데이터 로드)
