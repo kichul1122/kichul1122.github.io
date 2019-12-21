@@ -191,3 +191,5 @@ _site/
 .jekyll-cache/
 .vs/slnx.sqlite
 .vs/ProjectSettings.json
+.vs/VSWorkspaceState.json
+.vs/kichul1122.github.io/v16/.suo
