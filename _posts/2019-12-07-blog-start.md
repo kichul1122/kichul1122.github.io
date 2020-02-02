@@ -30,7 +30,7 @@ for (int i = 0 ; i < 10; i++)
 https://kichul1122.github.io/
 
 
-![File](file.png)
+![File](https://github.com/kichul1122/kichul1122.github.io/blob/master/Image/file.png)
 
 
 ```csharp
